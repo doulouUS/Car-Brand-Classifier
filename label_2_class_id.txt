@@ -1,0 +1,1 @@
+{"citroen": 0, "dacia": 1, "fiat": 2, "ford": 3, "hyundai": 4, "other": 5, "peugeot": 6, "renault": 7, "volkswagen": 8}
